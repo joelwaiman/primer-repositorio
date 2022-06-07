@@ -2,4 +2,11 @@
     max-width: 550px;
     margin: 0 auto;
     text-align: center;
+    background-color: black;
+    color: black;
+    background-image: radial-gradient(lightblue, pink);
+}
+
+.centrado button{
+    border-radius: 15px;
 }
